@@ -1,3 +1,9 @@
+Softmax:
+
+best validation accuracy achieved during cross-validation: 0.357000
+SoftMax on raw pixel of CIFAR-10 final test set accuracy: 0.343900
+
+------------------------------------------------------------------------------------------------
 the accuracy of The 2 layer neural network are as following:
 
 test_acc: 0.562
